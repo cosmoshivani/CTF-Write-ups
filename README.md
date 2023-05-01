@@ -2,7 +2,7 @@
 ## Mirror Unknown
 Here is the image for this challenge 
 
-![Mirror Unknown File](/Mirror_Unkown.png)
+![Mirror Unknown File](UMDCTF-2023/Mirror_Unkown.PNG)
 
 If you are not at all sure what these symbols mean, or in any such ctf challenge, the easiest way to find something is either using google image search or sometimes the challenge title gives it away. https://images.google.com/imghp?hl=en&gl=za&gws_rd=ssl
 The google image search will tell you that it's a 'uknown'. You can learn more about it on the wikipedia or just type uknown decoder right away.
