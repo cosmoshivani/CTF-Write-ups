@@ -1,6 +1,9 @@
 # UMDCTF 2023
 ## Mirror Unknown
 Here is the image for this challenge 
+<p>
+    <img src="Mirror_Unkown.png" width="220" height="240" />
+</p>
 ![Mirror Unknown File](https://github.com/cosmoshivani/UMDCTF-2023/blob/main/Mirror_Unkown.png)
 
 If you are not at all sure what these symbols mean, or in any such ctf challenge, the easiest way to find something is either using google image search or sometimes the challenge title gives it away. https://images.google.com/imghp?hl=en&gl=za&gws_rd=ssl
