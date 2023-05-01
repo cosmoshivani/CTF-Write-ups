@@ -2,7 +2,7 @@
 ## Mirror Unknown
 Here is the image for this challenge 
 <p>
-    <img src="Mirror_Unkown.png" width="220" height="240" />
+    <img src="https://github.com/cosmoshivani/UMDCTF-2023/blob/main/Mirror_Unkown.png" width="220" height="240" />
 </p>
 ![Mirror Unknown File](https://github.com/cosmoshivani/UMDCTF-2023/blob/main/Mirror_Unkown.png)
 
