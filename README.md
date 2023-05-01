@@ -18,6 +18,8 @@ If you look at the letters in the challenge file and the original uknown letters
 
 And if you look close you'll find that they are mirrored. And that's also what the challenge title indicates. We can find an online mirroring tool for this. 
 
+![uknown-wiki](https://user-images.githubusercontent.com/47838688/235416148-a5a2bc3a-0446-4b96-90bc-0aa729c816d5.PNG)
+
 :mushroom: [Mirror Image Tool](https://www.resizepixel.com/mirror-image/)
 
 And this is how it looks -- 
@@ -36,8 +38,6 @@ Tap on the letters one by one and decode. You will get the following string
 ```SINJOHRUINS```
 
 It does look like a flag, but what does it mean? Google tells us that it's actually ```Sinjoh Ruins```, an unknown region in the ```Pokemon World```.
-
-![uknown-wiki](https://user-images.githubusercontent.com/47838688/235416148-a5a2bc3a-0446-4b96-90bc-0aa729c816d5.PNG)
 
 [Most of the challenges of UMDCTF 2023 were Pokémon Themed and I was not at all familiar with their world sadly. But now I am thinking of watching the movies because Pikachu sure is cute]
 
