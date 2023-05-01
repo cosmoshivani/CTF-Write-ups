@@ -14,7 +14,7 @@ If you are not at all sure what these symbols mean, or in any such ctf challenge
 The google image search will tell you that these symbols are called, 'Unown'.
 If you look at the letters in the challenge file and the original uknown letters, you'll see that some of these look a bit different. 
 
-
+![unown](https://user-images.githubusercontent.com/47838688/235418382-3b15a835-b914-4d1c-a9ed-dbc01e4c12b9.PNG)
 
 And if you look close you'll see they are mirrored. And that's also what the challenge title indicates. So we can use an online mirroring tool to get the mirrored image. 
 
