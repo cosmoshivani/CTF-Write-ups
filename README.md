@@ -12,7 +12,7 @@ Here is the image for this challenge --
 :mushroom: [Google Image Search](https://images.google.com/imghp?hl=en&gl=za&gws_rd=ssl)
 
 >The google image search will tell you that these symbols are called, ```Unown```.
-If you look at the letters in the challenge file and the original uknown letters, you'll see that some of these look a bit different. 
+If you look at the letters in the challenge file and the original unown letters, you'll see that some of these look a bit different. 
 
 ![unown](https://user-images.githubusercontent.com/47838688/235418382-3b15a835-b914-4d1c-a9ed-dbc01e4c12b9.PNG)
 
