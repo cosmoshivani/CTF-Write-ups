@@ -7,7 +7,7 @@ Here is the image for this challenge --
 ![Mirror_Unkown](https://user-images.githubusercontent.com/47838688/235416072-ff2ac06d-05c2-4a6a-95e9-5c61c5070214.png)
 
 :thought_balloon: 
-If you are not at all sure what these symbols mean, or in any such ctf challenges, the easiest way to find something is either using google image search or sometimes the challenge title gives it away.
+>If you are not at all sure what these symbols mean, or in any such ctf challenges, the easiest way to find something is either using google image search or sometimes the challenge title gives it away.
 
 :mushroom: [Google Image Search](https://images.google.com/imghp?hl=en&gl=za&gws_rd=ssl)
 
@@ -48,11 +48,13 @@ It does look like a flag, but what does it mean? Google tells us that it's actua
  
  ```UMDCTF{SINJOHRUINS}```
  
+ ---
+ 
  ## 2. a-text-for-you-and-me [Misc]
 
 given web address --  ```a-txt-for-you-and-me.chall.lol```
 
-The description is hinting towards a TXT record associated with that domain that we can find using 
+The description is hinting towards a TXT record associated with the domain and we can find it using 
 
 :mushroom: [NsLookup.io](https://www.nslookup.io/txt-lookup/)
 
