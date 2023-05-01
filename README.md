@@ -1,5 +1,5 @@
 # UMDCTF 2023
-## Mirror Unknown
+## 1. Mirror Unknown [Forensics]
 
 Hi! :wave:
 Here is the image for this challenge --
@@ -39,7 +39,7 @@ Tap on the letters one by one and decode. You will get the following string
 
 It does look like a flag, but what does it mean? Google tells us that it's actually ```Sinjoh Ruins```, an unknown region in the ```Pokemon World```.
 
-[Most of the challenges of UMDCTF 2023 were Pokémon Themed and I was not at all familiar with their world sadly. But now I am thinking of watching the movies because Pikachu sure is cute]
+*[Most of the challenges of UMDCTF 2023 were Pokémon Themed and I was not at all familiar with their world sadly. But now I am thinking of watching the movies because Pikachu sure is cute]*
 
 :mushroom: The challenge description has another note -- (Note: Ancient civilizations didn't believe in whitespace of lowercase)
  
@@ -48,5 +48,17 @@ It does look like a flag, but what does it mean? Google tells us that it's actua
  
  ```UMDCTF{SINJOHRUINS}```
  
+ ## 2. a-text-for-you-and-me [Misc]
+
+given web address --  ```a-txt-for-you-and-me.chall.lol```
+
+The description is hinting towards a TXT record associated with that domain that we can find using 
+
+:mushroom: [NsLookup.io](https://www.nslookup.io/txt-lookup/)
+
+and this is what we find
+*An authoritative DNS server (ns-cloud-c3.googledomains.com.) responded with these DNS records when we queried it for the domain a-txt-for-you-and-me.chall.lol.*
+
+```UMDCTF{just_old_school_texting}```
  
  
