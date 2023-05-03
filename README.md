@@ -1,7 +1,11 @@
 # UMDCTF 2023
-## 1. Mirror Unknown [Forensics]
 
 Hi! :wave:
+
+## 1. Mirror Unknown [Forensics]
+
+### I found some unknown symbols in a nearby collapsed cave. Can you figure out what they mean? (Note: Ancient civilizations didn't believe in whitespace of lowercase)
+
 Here is the image for this challenge --
 
 ![Mirror_Unkown](https://user-images.githubusercontent.com/47838688/235416072-ff2ac06d-05c2-4a6a-95e9-5c61c5070214.png)
@@ -51,6 +55,7 @@ If you look at the letters in the challenge file and the original unown letters,
  ---
  
  ## 2. a-text-for-you-and-me [Misc]
+ ### We may not have A, AAAA, or even an MX, but boy do we have a TXT for you! Just grab it from a-txt-for-you-and-me.chall.lol
 
 >given web address --  ```a-txt-for-you-and-me.chall.lol```
 
