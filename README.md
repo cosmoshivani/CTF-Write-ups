@@ -1,5 +1,9 @@
 # UMDCTF 2023
 
+![umdctf23](https://user-images.githubusercontent.com/47838688/235943802-9e825b9b-98e0-4ae1-8168-884e58e6fa40.png)
+
+:mushroom: [UMDCTF](https://umdctf.io/) 
+
 Hi! :wave:
 
 ## 1. Mirror Unknown [Forensics]
@@ -15,12 +19,11 @@ Here is the image for this challenge --
 
 :mushroom: [Google Image Search](https://images.google.com/imghp?hl=en&gl=za&gws_rd=ssl)
 
->The google image search will tell you that these symbols are called, ```Unown```.
-If you look at the letters in the challenge file and the original unown letters, you'll see that some of these look a bit different. 
+>The google image search will tell you that these symbols are called, ```Unown```. And if you look at the letters in the challenge file and the original unown letters, you'll see that some of these look a bit different. 
 
 ![unown](https://user-images.githubusercontent.com/47838688/235418382-3b15a835-b914-4d1c-a9ed-dbc01e4c12b9.PNG)
 
->And if you look close you'll find that they are mirrored. And that's also what the challenge title indicates. We can find an online mirroring tool for this. 
+>If you look close you'll find that they are mirrored. And that's also what the challenge title indicates. We can find an online mirroring tool for this. 
 
 ![uknown-wiki](https://user-images.githubusercontent.com/47838688/235416148-a5a2bc3a-0446-4b96-90bc-0aa729c816d5.PNG)
 
@@ -34,8 +37,6 @@ If you look at the letters in the challenge file and the original unown letters,
 >Now we can start decoding. You can search for ```unown decoder``` but this one is pretty good too
 
 :mushroom: [Pokemon Unown Alphabet](https://www.dcode.fr/pokemon-unown-alphabet)
-
->[if you find any better decoder, please let me know]
 
 >Tap on the letters one by one and decode. You will get the following string 
 
